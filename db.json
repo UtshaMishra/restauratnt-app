@@ -1,0 +1,103 @@
+{
+	"menu": [
+		{
+			"category": "mains",
+			"description": "A unique combination of Indian Uthappam (pancake) and Italian pizza",
+			"id": 0,
+			"image": "https://i.imgur.com/tDnjTXf.jpg",
+			"label": "Hot",
+			"name": "Uthappizza",
+			"price": "4.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce",
+			"id": 1,
+			"image": "https://i.imgur.com/xkUElXq.jpg",
+			"label": "",
+			"name": "Zucchipakoda",
+			"price": "1.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "A quintessential ConFusion experience, is it a vada or is it a donut?",
+			"id": 2,
+			"image": "https://i.imgur.com/anUAlqF.jpg",
+			"label": "New",
+			"name": "Vadonut",
+			"price": "1.99"
+		},
+
+		{
+			"category": "dessert",
+			"description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms",
+			"id": 3,
+			"image": "https://i.imgur.com/c5hBTEW.jpg",
+			"label": "",
+			"name": "ElaiCheese Cake",
+			"price": "2.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "Assorted chillies from Guntur",
+			"id": 4,
+			"image": "https://i.imgur.com/Vc9JIXP.jpg",
+			"label": "Spicy",
+			"name": "Guntur chillies",
+			"price": "0.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "A special type of Paneer made from Buffalo milk",
+			"id": 5,
+			"image": "https://i.imgur.com/pH2tkgk.jpg",
+			"label": "",
+			"name": "Buffalo Paneer",
+			"price": "5.99"
+		},
+
+		{
+			"category": "clone",
+			"description": "clone of cherry and tomato",
+			"id": 6,
+			"image": "https://i.imgur.com/fRy8hjE.jpg",
+			"label": "clone",
+			"name": "Cherry Tomatoes",
+			"price": "9.99"
+		},
+
+		{
+			"category": "weird",
+			"description": "Medicinal Goat Milk",
+			"id": 7,
+			"image": "https://i.imgur.com/zFGPhrI.jpg",
+			"label": "weird",
+			"name": "Goat Milk",
+			"price": "1.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "Roasted rare bird",
+			"id": 8,
+			"image": "https://i.imgur.com/RYsqgoo.jpg",
+			"label": "New",
+			"name": "Rose breasted Grosbeak chicken",
+			"price": "7.99"
+		},
+
+		{
+			"category": "appetizer",
+			"description": "Cooked Toenails of various animals",
+			"id": 9,
+			"image": "https://i.imgur.com/IpG3YOT.jpg",
+			"label": "weird",
+			"name": "Toenail Zingy",
+			"price": "0.99"
+		}
+	]
+}
